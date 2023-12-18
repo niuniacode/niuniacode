@@ -7,8 +7,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,github,idea,visualstudio,&perline=7"/>
   </a>
 </p> <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubuscode&show_icons=true&theme=tokyonight" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubuscode&theme=tokyonight&hide_border=true" />
-</div>
