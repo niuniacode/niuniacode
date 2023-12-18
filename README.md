@@ -15,8 +15,8 @@
 </p>
 <h1>You can find me on:</h1>
 <p align="center">
-  <a href="https://youtube.com">
-    <img src="https://www.svgrepo.com/show/13671/youtube.svg/" />
+  <a href="https://youtube.com/@ghxzzt">
+    <img src="https://www.svgrepo.com/show/13671/youtube.svg/", style="height:50px; width:60px">
   </a>
 </p>
 <br>
