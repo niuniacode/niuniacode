@@ -14,14 +14,15 @@
   </a>
 </p>
 <h1>You can find me on:</h1>
-<p align="center">
-  <a href="https://youtube.com/@ghxzzt">
-      <style>
-          .guwno {height:50px; width:60px}
-      </style>
-    <img src="https://www.svgrepo.com/show/13671/youtube.svg/", class="guwno">
-  </a>
-</p>
+<a href="www.youtube.com/@ghxzzt">
+    <h2 align="center">Youtube</h2>
+</a>
+<a href="https://twitter.com/@anonimA87144245">
+    <h2 align="center">Twitter</h2>
+</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D">
+    <h2 align="center">OnlyF*ns</h2>
+</a>
 <br>
 
 
