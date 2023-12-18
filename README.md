@@ -16,7 +16,10 @@
 <h1>You can find me on:</h1>
 <p align="center">
   <a href="https://youtube.com/@ghxzzt">
-    <img src="https://www.svgrepo.com/show/13671/youtube.svg/", style="height:50px; width:60px">
+      <style>
+          .guwno {height:50px; width:60px}
+      </style>
+    <img src="https://www.svgrepo.com/show/13671/youtube.svg/", class="guwno">
   </a>
 </p>
 <br>
