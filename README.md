@@ -6,6 +6,6 @@
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
   <a href="https://www.youtube.com/@ghxzzt">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps,ai,&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps,ai,pr,&perline=7"/>
   </a>
 </p> <br>
