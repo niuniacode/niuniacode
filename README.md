@@ -4,7 +4,7 @@
 <h1>Languages and Tools</h1>
 <p align="center">
   <a href="https://www.youtube.com/@ghxzzt">
-    <img src="https://skillicons.dev/icons?i=github,gradle,unity,idea,visualstudio,mysql,cs,cpp,dotnet,javascript,php,kotlin,rust,java&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=html,css,github,idea,visualstudio,&perline=7"/>
   </a>
 </p> <br>
 
