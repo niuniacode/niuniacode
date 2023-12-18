@@ -5,7 +5,10 @@
 
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
-  <a href="https://www.youtube.com/@ghxzzt">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps,ai,pr,&perline=7"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps,ai,pr," />
   </a>
-</p> <br>
+</p>
+<br>
+
+
