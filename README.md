@@ -3,7 +3,7 @@
 <h3 align="center">Want to learn:</h3>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,msq,py&perline=3" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,py&perline=3" />
   </a>
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
