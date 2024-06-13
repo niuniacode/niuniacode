@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm niunia 👋</h1>
+<h1 align="center">Hi, I'm gast 👋</h1>
 <h2 align="center">Beginner HTML&CSS "Developer" and Graphic Designer from Poland</h2>
 <h1 align="center">Want to learn:</h1>
 <br>
