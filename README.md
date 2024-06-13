@@ -10,7 +10,7 @@
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,ps,ai,pr&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,ps,ai&perline=3" />
   </a>
 </p>
 
